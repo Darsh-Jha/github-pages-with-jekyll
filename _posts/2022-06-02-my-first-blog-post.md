@@ -8,6 +8,6 @@ instagram_username: darshjha
 ---
 <img src= "Darsh_jha_image.png">
 <h1>Brag sheet</h1>
-<p>1.</p>
-<p>2.</p>
-<p>3.</p>
+<p>1. I am proud of doing all my homework</p>
+<p>2. I am proud of my grades</p>
+<p>3. I am proud that I study more</p>
