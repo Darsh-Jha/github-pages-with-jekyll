@@ -1,12 +1,14 @@
 theme: minima
 title: Darsh's Website
 author: Darsh Jha
+avatar: Darsh_jha_image.png
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This site is personalized to me.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  Darsh-Jha # DO NOT include the @ character, or else the build will fail!
+instagram_username: darshjha
 
 show_excerpts: true # set to false to remove excerpts on the homepage
