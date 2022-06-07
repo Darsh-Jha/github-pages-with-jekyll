@@ -1,7 +1,7 @@
 theme: minima
 title: Darsh's Website
 author: Darsh Jha
-avatar: Darsh_jha_image.png
+avatar: /Darsh_jha_image.png
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This site is personalized to me.
