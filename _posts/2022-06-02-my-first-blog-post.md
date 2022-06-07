@@ -6,7 +6,7 @@ name: Darsh Jha
 instagram_username: darshjha
 
 ---
-<img src= "Darsh_jha_image.png">
+<img src= "/_posts/Darsh_jha_image.png">
 <h1>Brag sheet</h1>
 <p>1.</p>
 <p>2.</p>
